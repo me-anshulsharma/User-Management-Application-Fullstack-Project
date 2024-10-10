@@ -29,11 +29,11 @@ A full-stack application for managing users built with **Spring Boot** as the ba
 
 ## API Endpoints
 
-POST	      /user	        Create a new user
-GET	        /users	      Retrieve all users
-GET	        /user/{id}	  Retrieve a user by ID
-PUT	        /user/{id}	  Update a user by ID
-DELETE	    /user/{id}	  Delete a user by ID
+- POST	      /user	        Create a new user
+- GET	        /users	      Retrieve all users
+- GET	        /user/{id}	  Retrieve a user by ID
+- PUT	        /user/{id}	  Update a user by ID
+- DELETE	    /user/{id}	  Delete a user by ID
 
 ## Usage
 
